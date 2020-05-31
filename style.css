@@ -1,0 +1,22 @@
+
+.c-img{
+    width: 95%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    
+    
+
+   
+}
+
+.txt{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    
+    color: aliceblue ;
+}
+
